@@ -1,0 +1,150 @@
+{"text": "REASONING:\nIncome level is low relative to requested loan. Repayment capacity is assessed as very weak. Good credit history does not override repayment risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nCredit quality is poor. Poor credit behavior indicates high default risk. Income strength cannot compensate adverse credit history.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is very weak. Loan burden is disproportionate to income. Good credit does not mitigate repayment risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nMultiple moderate risks are present. Unstable employment increases income volatility. High family obligations increase financial stress.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but repayment capacity is only moderate. Moderate obligations introduce additional risk. Overall risk remains acceptable under conservative policy.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Income and repayment capacity are weak. Combined risks significantly elevate default probability.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nAll indicators are moderate. No strong negative indicators are present. Stable employment and good credit support cautious approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nAll indicators are moderate. Absence of strong positive signals increases uncertainty. Conservative policy favors rejection in borderline cases.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity observed. Credit quality is good with stable employment. All major indicators align positively.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nIncome level is low with weak repayment capacity. Employment instability increases income uncertainty. Combined risks outweigh positive credit history.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is weak. High family obligations increase financial burden. Good credit does not offset cumulative stress.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome level is strong but credit quality is only average. Moderate repayment capacity introduces some risk. Overall profile remains acceptable with caution.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nIncome and repayment capacity are severely weak. Credit quality is poor with unstable employment. Multiple high-risk indicators compound negatively.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is strong. Credit quality and employment stability reduce default risk. No material adverse indicators observed.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nSeveral moderate risk indicators are present. Employment instability increases income uncertainty. Combined moderate risks elevate default probability.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are strong. Credit quality is average but not adverse. Overall risk profile remains acceptable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nIncome is low with weak repayment capacity. High family obligations increase financial strain. Good credit history is insufficient to offset risks.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are moderate. Employment instability introduces uncertainty. Absence of strong positives warrants caution.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity observed. Moderate obligations are manageable. Overall profile supports approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Repayment capacity is weak. Combined risks exceed acceptable limits.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is very weak. Income level is insufficient. Moderate credit quality does not mitigate risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but employment is unstable. Repayment capacity is only moderate. Unstable income source increases uncertainty.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is strong. Credit quality is average but acceptable. No significant risk indicators present.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nIncome is low with weak repayment capacity. Employment instability and high obligations compound risk. Overall risk is significantly elevated.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong financial profile observed. No adverse indicators present. Risk remains low.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nAll indicators are moderate. No strong positives are present. Conservative policy favors rejection in absence of clear strengths.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is very weak. High family obligations increase stress. Good credit does not offset repayment risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nCredit quality is poor. Moderate repayment capacity does not mitigate credit risk. Approval standards are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is strong. Credit quality is good. Moderate obligations are manageable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Income and repayment capacity are weak. Employment instability increases default risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is weak. Moderate family obligations increase financial pressure. Good credit alone does not ensure repayment reliability.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity observed. Credit quality is average but not adverse. Moderate obligations are manageable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Employment instability increases income uncertainty. High family obligations compound financial stress.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity observed. Good credit quality and stable employment reduce risk. No significant adverse indicators present.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Moderate repayment capacity does not mitigate credit risk. Approval standards are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but employment is unstable. Repayment capacity is only moderate. Income volatility increases repayment uncertainty.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. High family obligations increase financial burden. Overall risk exceeds conservative tolerance.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are strong. Credit quality and employment stability are positive. Risk indicators align favorably.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nMultiple moderate risks are present. Employment instability increases uncertainty. Combined risks elevate default probability.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is very weak. Credit quality is poor. Combined risks indicate high likelihood of default.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong with moderate repayment capacity. Credit quality is average. No major adverse indicators present.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is weak. Employment instability and high obligations increase stress. Good credit does not offset combined risks.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome level is low with weak repayment capacity. Moderate obligations increase financial strain. Risk profile remains elevated.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity. Credit quality is average but acceptable. No significant risk escalation.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nAll indicators are moderate. No strong positives are present. Conservative policy favors rejection in borderline cases.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is very weak. Income is insufficient. Average credit quality does not mitigate risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nCredit quality is poor. Employment instability increases income risk. Moderate repayment capacity does not offset credit issues.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity observed. Credit quality and employment stability are positive. Overall risk is low.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Credit quality is poor. High obligations significantly elevate default risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is weak. High family obligations increase repayment stress. Good credit does not compensate elevated burden.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity observed. Credit quality is good. No material risk indicators present.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Employment instability increases income uncertainty. Overall risk is unacceptably high.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are moderate. Credit quality is average. Absence of strong positives increases uncertainty.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome level is strong but repayment capacity is moderate. Moderate obligations increase financial pressure. Overall risk remains acceptable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Income stability is weak. Multiple severe risk indicators compound negatively.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is strong. Credit quality and employment stability reduce risk. Profile supports approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is weak. Moderate obligations increase burden. Risk exceeds conservative tolerance.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity observed. Credit quality is average but acceptable. Overall risk remains low.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. High family obligations increase financial stress. Good credit does not offset repayment risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nCredit quality is poor. Moderate repayment capacity does not mitigate credit risk. Approval criteria are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but employment is unstable. Repayment capacity is moderate. Income volatility increases risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is low with weak repayment capacity. High obligations increase stress. Overall risk exceeds acceptable limits.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity observed. Credit quality is average. Overall profile supports approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Credit quality is poor. Multiple severe risks indicate high default probability.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity. Moderate obligations are manageable. Credit quality supports approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nIncome and repayment capacity are moderate. Employment instability introduces uncertainty. No strong positives justify approval.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. High family obligations increase repayment stress. Good credit does not offset burden.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nCredit quality is poor. Moderate repayment capacity does not mitigate credit risk. Approval standards are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is weak. High family obligations increase financial stress. Average credit quality does not mitigate repayment risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity observed. Credit quality is good with stable employment. No material risk indicators present.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. High family obligations increase financial pressure. Overall risk exceeds acceptable thresholds.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are moderate. Credit quality and employment stability are positive. Profile supports cautious approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Moderate repayment capacity does not mitigate credit risk. Moderate obligations increase stress.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Employment instability increases income uncertainty. Combined risks outweigh positive credit history.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity observed. Moderate obligations are manageable. Credit quality supports approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is weak. Employment instability and high obligations compound risk. Overall risk is elevated.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity. Credit quality is average but acceptable. No major risk escalation.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Credit quality is poor. Employment instability further increases default risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nAll indicators are moderate. No strong positives are present. Conservative policy favors rejection in borderline cases.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but employment is unstable. Moderate repayment capacity introduces uncertainty. Income volatility increases risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is low with weak repayment capacity. Moderate obligations increase stress. Risk remains elevated.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity observed. Credit quality is average but acceptable. Overall risk is low.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. High obligations increase financial stress. Good credit does not offset repayment risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nCredit quality is poor. Strong income does not override adverse credit history. Approval criteria are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nAll indicators are moderate. No strong positives justify approval. Conservative bias applies.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Credit quality is poor. Overall risk is high.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but repayment capacity is moderate. Average credit quality introduces some risk. Overall profile remains acceptable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is weak. Moderate obligations increase financial pressure. Property risk adds secondary concern.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity. Credit quality and employment stability are positive. Moderate obligations are manageable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Employment instability and high obligations compound risk. Overall risk is unacceptably high.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are moderate. Credit quality is good. Profile supports cautious approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Moderate repayment capacity does not mitigate credit risk. Approval criteria are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Employment instability increases income uncertainty. High obligations increase repayment stress.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity. Credit quality is good. Moderate obligations are manageable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is weak. Employment instability introduces uncertainty. Property risk adds secondary concern.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity. Credit quality is average but acceptable. Overall risk remains low.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Credit quality is poor. Employment instability compounds default risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nAll indicators are moderate. No strong positives are present. Conservative bias applies.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but employment is unstable. Moderate repayment capacity introduces uncertainty. Income volatility increases risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. High family obligations increase financial stress. Overall risk exceeds tolerance.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity observed. Credit quality is average but acceptable. Overall risk is low.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Moderate obligations increase stress. Good credit does not offset repayment risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nCredit quality is poor. Strong income does not override adverse credit behavior. Approval criteria are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nAll indicators are moderate. No strong positives justify approval. Conservative bias applies.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Credit quality is poor. Overall risk is high.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but repayment capacity is moderate. Average credit quality introduces some risk. Overall profile remains acceptable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is weak. High family obligations significantly increase financial stress. Average credit quality does not mitigate burden.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity observed. Credit quality and employment stability are positive. No adverse indicators present.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Employment instability and high obligations compound risk. Overall profile is unacceptable.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are moderate. Credit quality and employment stability support approval. No material risks identified.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Moderate repayment capacity does not offset credit risk. Approval criteria are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Employment instability increases income uncertainty. High obligations elevate repayment stress.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity observed. Moderate obligations are manageable. Credit quality supports approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is weak. Employment instability introduces uncertainty. Property risk adds secondary concern.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity. Credit quality is average but acceptable. Overall risk remains low.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Credit quality is poor. Employment instability compounds default risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nAll indicators are moderate. No strong positives are present. Conservative policy favors rejection.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but employment is unstable. Moderate repayment capacity introduces uncertainty. Income volatility increases risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. High family obligations increase financial stress. Overall risk exceeds acceptable tolerance.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity observed. Credit quality is average but acceptable. Overall risk is low.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Moderate obligations increase stress. Good credit does not offset repayment risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nCredit quality is poor. Strong income does not override adverse credit behavior. Approval criteria are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nAll indicators are moderate. No strong positives justify approval. Conservative bias applies.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Credit quality is poor. Overall risk is high.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but repayment capacity is moderate. Average credit quality introduces some risk. Overall profile remains acceptable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is weak. High family obligations significantly increase financial stress. Property risk further elevates exposure.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity. Moderate obligations are manageable. Credit quality supports approval.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Employment instability increases income uncertainty. Overall risk exceeds acceptable tolerance.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are moderate. Credit quality and stable employment reduce risk. No severe adverse indicators present.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Moderate repayment capacity does not mitigate credit risk. Approval criteria are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Employment instability increases uncertainty. High obligations elevate repayment stress.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity observed. Credit quality and employment stability support approval. Low obligation load reduces risk.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is weak. Employment instability and high obligations compound risk. Property risk further elevates exposure.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity. Average credit quality is acceptable. Overall profile remains strong.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. Credit quality is poor. High obligations significantly elevate default risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nAll indicators are moderate. No strong positives justify approval. Conservative policy favors rejection.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong but employment is unstable. Moderate repayment capacity introduces uncertainty. Income volatility increases risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. High obligations increase financial stress. Overall risk exceeds acceptable tolerance.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity. Average credit quality is acceptable. Moderate obligations are manageable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is very weak. High obligations significantly increase stress. Good credit does not offset repayment weakness.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nCredit quality is poor. Strong income does not override adverse credit behavior. Approval standards are not met.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is moderate. High obligations increase repayment stress. Conservative policy favors rejection.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Credit quality is poor. Overall default risk is high.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nIncome is strong with moderate repayment capacity. Average credit quality introduces some risk. Overall profile remains acceptable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nRepayment capacity is moderate. High family obligations significantly increase financial pressure. Average credit quality does not provide sufficient safety margin.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong income and repayment capacity. Moderate obligations are manageable. Credit quality and property risk are favorable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nIncome and repayment capacity are weak. Employment instability increases uncertainty. High obligations compound default risk.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nStrong repayment capacity offsets average credit quality. Low obligation load reduces financial stress. Overall risk remains acceptable.\n\nDECISION:\nApproved"}
+{"text": "REASONING:\nCredit quality is poor. Moderate repayment capacity does not compensate for adverse credit behavior. Conservative policy requires rejection.\n\nDECISION:\nRejected"}
+{"text": "REASONING:\nRepayment capacity is very weak. Good credit history does not offset insufficient income. Overall repayment sustainability is low.\n\nDECISION:\nRejected"}

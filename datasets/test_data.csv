@@ -1,0 +1,21 @@
+Customer_ID,Gender,Married,Dependents,Education,Self_Employed,Applicant_Income,Coapplicant_Income,Loan_Amount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+347,Male,Yes,2,Not Graduate,No,3523,3230,152,360,0,Rural,N
+409,Male,Yes,1,Graduate,No,8300,0,152,300,0,Semiurban,N
+444,Male,No,1,Graduate,No,37719,0,152,360,1,Semiurban,Y
+463,Male,Yes,0,Graduate,No,3015,2188,153,360,1,Rural,Y
+117,Female,Yes,0,Graduate,No,3167,2283,154,360,1,Semiurban,Y
+481,Female,No,0,Not Graduate,No,4350,0,154,360,1,Rural,Y
+243,Male,No,0,Graduate,No,2965,5701,155,60,1,Urban,Y
+263,Female,No,1,Graduate,No,3481,0,155,36,1,Semiurban,N
+320,Male,Yes,1,Graduate,Yes,10000,0,155,360,1,Rural,N
+372,Male,Yes,2,Graduate,No,5185,0,155,360,1,Semiurban,Y
+546,Male,Yes,0,Graduate,No,2768,1950,155,360,1,Rural,Y
+602,Male,Yes,0,Not Graduate,Yes,2894,2792,155,360,1,Rural,Y
+383,Female,No,0,Graduate,No,6000,0,156,360,1,Urban,Y
+540,Male,Yes,4,Graduate,No,6417,0,157,180,1,Rural,Y
+608,Male,Yes,2,Not Graduate,No,3987,1411,157,360,1,Rural,Y
+8,Male,Yes,4,Graduate,No,3036,2504,158,360,0,Semiurban,N
+164,Male,Yes,2,Graduate,No,4167,1447,158,360,1,Rural,Y
+229,Male,No,0,Graduate,No,4758,0,158,480,1,Semiurban,Y
+281,Male,No,1,Not Graduate,Yes,4053,2426,158,360,0,Urban,N
+343,Male,Yes,1,Not Graduate,No,4554,1229,158,360,1,Urban,Y

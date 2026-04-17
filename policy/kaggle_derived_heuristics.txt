@@ -1,0 +1,78 @@
+H1. Credit History as a Dominant Risk Signal
+Applicants with poor credit history are rejected in the majority of cases, even when income or other factors appear favorable.
+
+Heuristic:
+Poor credit history is a dominant negative signal and can independently justify rejection regardless of other positive indicators.
+
+H2. Good Credit History Is Necessary but Not Sufficient
+Applicants with good credit history are approved more frequently, but a significant number are still rejected due to other risk factors.
+
+Heuristic:
+Good credit history improves eligibility but does not override income instability, repayment burden, or document inconsistencies.
+
+H3. Income Alone Does Not Guarantee Approval
+There is substantial overlap in applicant income between approved and rejected cases, including high-income applicants being rejected.
+
+Heuristic:
+Higher income reduces perceived risk but does not guarantee approval without supporting credit behavior and repayment capacity.
+
+H4. Loan Amount Must Be Evaluated Relative to Income
+Approved and rejected applicants request similar loan amounts in absolute terms; risk emerges when loan amount is disproportionate to income.
+
+Heuristic:
+Loan amount must always be evaluated in proportion to verified income rather than as a standalone value.
+
+H5. Repayment Burden Is a Strong Rejection Indicator
+Rejected applications show significantly higher loan-to-income ratios, even when other indicators appear acceptable.
+
+Heuristic:
+High repayment burden is a strong rejection signal and can outweigh positive credit or income indicators.
+
+H6. Combined Moderate Risks Compound Negatively
+Applications with multiple moderate risk indicators are rejected more often than those with a single isolated risk.
+
+Heuristic:
+Multiple moderate risks together should be treated as equivalent to a major risk factor.
+
+H7. Employment Type Influences Risk Assessment
+Self-employed applicants experience higher rejection rates compared to salaried applicants.
+
+Heuristic:
+Self-employed applicants require stronger income verification and are subject to higher scrutiny than salaried applicants.
+
+H8. Education Level Has Limited Decisive Power
+Graduate applicants are approved more often, but education alone does not prevent rejection.
+
+Heuristic:
+Education level may marginally reduce risk but must not override financial, credit, or document-related concerns.
+
+H9. Property Location Is a Secondary Signal
+Approval and rejection occur across all property areas without any location guaranteeing approval.
+
+Heuristic:
+Property location should be treated as a supporting signal rather than a decisive eligibility factor.
+
+H10. Credit History Can Override Repayment Capacity
+Applicants with poor credit history are rejected even when loan-to-income ratios are relatively low.
+
+Heuristic:
+Poor credit behavior can override otherwise acceptable repayment capacity.
+
+H11. Good Credit Does Not Compensate for Excessive Burden
+Applicants with good credit history are still rejected when loan-to-income ratios become excessively high.
+
+Heuristic:
+Good credit history does not compensate for unsustainable repayment burden.
+
+H12. Absence of Strong Negatives Does Not Guarantee Approval
+Some applications are rejected even when no single high-risk factor is extreme.
+
+Heuristic:
+Applications that lack strong, corroborated positive evidence across income stability, credit behavior, and repayment capacity should not
+be approved by default.
+
+H13. Conservative Decision Bias
+Approval occurs only when multiple key indicators align positively.
+
+Heuristic:
+In borderline or ambiguous cases, risk must be increased rather than assuming eligibility.

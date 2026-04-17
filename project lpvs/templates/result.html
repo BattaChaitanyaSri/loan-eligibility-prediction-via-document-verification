@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loan Prediction Result</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background: #f4f6f9;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .result-card {
+            border-radius: 16px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            padding: 30px;
+            border-radius: 16px 16px 0 0;
+            text-align: center;
+        }
+
+        .decision-approved {
+            color: #198754;
+            font-weight: bold;
+        }
+
+        .decision-rejected {
+            color: #dc3545;
+            font-weight: bold;
+        }
+
+        .info-label {
+            font-weight: 600;
+            color: #555;
+        }
+
+        .reasoning-box {
+            background: #f8f9fa;
+            border-left: 5px solid #1e3c72;
+            padding: 15px;
+            border-radius: 10px;
+            white-space: pre-line;
+        }
+
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background: #212529;
+            color: white;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container my-5">
+
+    <div class="card result-card">
+
+        <!-- HEADER -->
+        <div class="header">
+            <h2>Loan Prediction Result</h2>
+            <p class="mt-2">AI-powered decision using Small Language Model</p>
+        </div>
+
+        <!-- BODY -->
+        <div class="card-body p-4">
+
+            <!-- USER DETAILS -->
+            <h5 class="mb-3">Applicant Information</h5>
+            <div class="row mb-4">
+                <div class="col-md-6">
+                    <p><span class="info-label">User Name:</span> {{ user_data['username'] }}</p>
+                </div>
+                <div class="col-md-6">
+                    <p><span class="info-label">Loan Amount:</span> ₹{{ user_data['loan_amount'] }}</p>
+                </div>
+                <div class="col-md-6">
+                    <p><span class="info-label">Loan Period:</span> {{ user_data['loan_period'] }} months</p>
+                </div>
+            </div>
+
+            <hr>
+
+            <!-- AI REASONING -->
+            <h5 class="mb-3">AI Reasoning</h5>
+            <div class="reasoning-box mb-4">
+                {{ reasoning }}
+            </div>
+
+            <hr>
+
+            <!-- DECISION -->
+            <h5 class="mb-3">Final Decision</h5>
+
+            {% if decision == "Approved" %}
+                <h4 class="decision-approved">✅ LOAN APPROVED</h4>
+            {% else %}
+                <h4 class="decision-rejected">❌ LOAN REJECTED</h4>
+            {% endif %}
+
+            <div class="mt-4">
+                <a href="/" class="btn btn-primary">Apply Again</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<footer>
+    © 2026 AI Loan Prediction System | Explainable & Secure Decisions
+</footer>
+
+</body>
+</html>
